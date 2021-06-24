@@ -1,5 +1,9 @@
 \documentclass{article}
+
+
 \usepackage[utf8]{inputenc}
+
+
 \usepackage{graphicx}
 
 \title{OS11}
@@ -11,9 +15,14 @@
 \maketitle
 
 \section{Introduction}
+
+
 Mohammad Soroush.\\
+
 At age 21.\\
+
 Sadjad University\\
+
 Mashhad...Iran\\
 
 \section{Image}
