@@ -7,7 +7,9 @@
 \usepackage{graphicx}
 
 \title{OS11}
+
 \author{Mohammad Soroush}
+
 \date{June 2021}
 
 \begin{document}
@@ -26,24 +28,39 @@ Sadjad University\\
 Mashhad...Iran\\
 
 \section{Image}
+
 \includegraphics{download.jpg}
 
 \section{Table}
 
  \begin{tabular}{||c c c c||} 
+ 
  \hline
+ 
  Col1 & Col2 & Col2 & Col3 \\ [0.5ex] 
+ 
  \hline\hline
+ 
  1 & 6 & 12 & 15 \\ 
+ 
  \hline
+ 
  2 & 7 & 13 & 16 \\
+ 
  \hline
+ 
  3 & 9 & 14 & 17 \\
+ 
  \hline
+ 
  4 & 10 & 13 & 18 \\
+ 
  \hline
+ 
  5 & 11 & 14 & 19 \\ [1ex] 
+ 
  \hline
+ 
 \end{tabular}
 
 \section{math formula}
@@ -54,7 +71,9 @@ Mashhad...Iran\\
 \section{programming}
 
 int main ()\\
+
 {
+
   std::vector<int> myvector;\\
 
  
@@ -70,10 +89,13 @@ int main ()\\
   
   
   for (unsigned i=0; i<myvector.size(); ++i)\\
+ 
     std::cout << ' ' << myvector[i];\\
+ 
   std::cout << '\n';\\
 
   return 0;\\
+ 
 }//
 
 
